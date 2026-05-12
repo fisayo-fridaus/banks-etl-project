@@ -1,4 +1,5 @@
 Banks ETL Project
+
 📊 Project Overview
 
 This project implements an end-to-end ETL (Extract, Transform, Load) pipeline to process data about the world’s largest banks by market capitalization. The data is scraped from Wikipedia, transformed using exchange rates, and stored in both CSV and SQLite database formats for analysis.
